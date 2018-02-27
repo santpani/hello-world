@@ -1,2 +1,4 @@
 # hello-world
-a Test Repository
+Hi Hello,
+
+This is my first edit of the README file.
